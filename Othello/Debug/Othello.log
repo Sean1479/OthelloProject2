@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Board.cpp
+  Node.cpp
+  Othello.cpp
+  OthelloDlg.cpp
+C:\cpp\Othellotest0\Othello\Othello\OthelloDlg.cpp(74,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Tree.cpp
+  正在生成代码...
+C:\cpp\Othellotest0\Othello\Othello\Board.cpp(43): warning C4715: “Board::sumscore”: 不是所有的控件路径都返回值
+  Othello.vcxproj -> C:\cpp\Othellotest0\Othello\Debug\Othello.exe
